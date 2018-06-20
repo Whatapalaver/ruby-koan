@@ -1,3 +1,12 @@
+
+## Whatapalaver enters the path to enlightment
+
+This is a clone of the original [Ruby Koans repo](https://github.com/edgecase/ruby_koans)
+I've cloned it and altered the .gitignore file so that I could push my solutions to my own repo.
+That means this is a great big cheat - so don't look at my answer unless you want to spoil the whole challenge.
+
+Here's the original readme:
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
